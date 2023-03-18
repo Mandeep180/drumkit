@@ -1,0 +1,7 @@
+document.querySelector("button").addEventListener("click",{
+    // anonymous function
+    handelClick(){
+        alert("I got Clicked");
+    }
+});
+
